@@ -1,2 +1,2 @@
-# School Management
- Database management tool for School
+
+ The School Management Application is a database management tool developed using ADO.net that allows the display and management of the Teachers, Courses and Students stored in the database. The application makes use of ADO.net technology to interact with the database, retrieve the required data, and display it in an organized and user-friendly manner. The application also provides functionality to manage the data, such as adding new records, updating existing records, and deleting records. With its efficient use of ADO.net and its user-friendly interface, this application streamlines the management of the Teachers, Courses and Students data in the DB_College database.
